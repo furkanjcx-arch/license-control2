@@ -1,8 +1,8 @@
 {
   "licenses": {
-    "TEST-1MIN": {
+    "TEST-2MIN": {
       "active": true,
-      "expire_ts": 1700000000
+      "expire_ts": 1767225720
     }
   }
 }
